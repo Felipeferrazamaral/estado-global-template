@@ -6,4 +6,9 @@ export function handleHome(navigate) {
     navigate("/cart");
   }
   
+    
+  export function handleRegistration(navigate) {
+    navigate("/registration");
+  }
+  
   
